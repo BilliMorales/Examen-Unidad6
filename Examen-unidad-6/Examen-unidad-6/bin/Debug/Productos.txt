@@ -1,0 +1,4 @@
+Nombre del producto: samsung
+Caracteristicas: ram 6gb
+Precio por unidad: $7,200.00
+Cantidad en stock: 4
